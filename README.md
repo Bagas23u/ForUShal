@@ -122,7 +122,7 @@
         </div>
       </div>
 
-      <p id="ketgeser">Klik untuk Geser!</p>
+      <p id="ketgeser">Klik Diatas teks ini untuk Geser!</p>
 
       <div>
         <blockquote id="bq">
